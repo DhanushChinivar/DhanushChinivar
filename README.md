@@ -1,4 +1,4 @@
-## 🙏 Namaste, I'm Dhanush 👋  
+## I'm Dhanush 👋  
 ### Software Engineer | Cybersecurity | DevOps | AI Enthusiast
 
 ---
@@ -13,9 +13,9 @@
 ---
 
 ### 📫 Contact Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your@email.com
-- 🌐 Portfolio: https://your-portfolio.netlify.app
+- 🔗 LinkedIn: https://linkedin.com/in/dhanush-chinivar/
+- 📧 Email: dhanushchinivar@gmail.com
+- 🌐 Portfolio: https://dhanush-chinivar.netlify.app/
 
 ---
 
