@@ -1,6 +1,8 @@
 ## Hi, I'm Dhanush 👋
 ### Full Stack AI Engineer | RAG · Agents · Production LLM Systems
 
+🌐 **[dhanushchinivar.dev →](https://dhanushchinivar.dev)**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=dhanushchinivar&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/dhanushchinivar?label=Followers&style=flat&color=0e75b6)
 
@@ -78,7 +80,7 @@ Event coordination platform with AI-assisted workflows. Next.js + MongoDB + Inng
 ---
 
 ### 📫 Let's Connect
-- 🌐 Portfolio: [dhanush-chinivar.netlify.app](https://dhanush-chinivar.netlify.app/)
+- 🌐 Portfolio: [dhanushchinivar.dev](https://dhanushchinivar.dev)
 - 🔗 LinkedIn: [dhanush-chinivar](https://linkedin.com/in/dhanush-chinivar/)
 - 📧 Email: [dhanushchinivar@gmail.com](mailto:dhanushchinivar@gmail.com)
 
