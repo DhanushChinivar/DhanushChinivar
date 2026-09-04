@@ -8,12 +8,12 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Master of IT (Cloud & AI) @ Deakin University — graduating mid-2026
+- 🎓 Master of IT (Cloud & AI) @ Deakin University — 2026
 - 🤖 Building production-grade AI systems with multi-agent orchestration, RAG, and LLMs
 - ⚙️ Full-stack engineer — TypeScript/React, Next.js, FastAPI, LangGraph, Qdrant
 - ☁️ 2× AWS certified (Solutions Architect Associate + Cloud Practitioner) · CompTIA Security+
 - 🧑‍🏫 Teaching game dev & generative AI to kids @ Code Camp Australia
-- 📍 Based in Melbourne, open to Full Stack / AI Engineering roles (full working rights)
+- 📍 Based in Melbourne, open to Full Stack / AI Engineering roles (AU full working rights)
 
 ---
 
